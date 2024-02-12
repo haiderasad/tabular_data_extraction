@@ -2,7 +2,6 @@ from flask import Flask, request, jsonify
 import base64
 import io
 from PIL import Image
-from table_extractor import process_pdf
 from TableExtractor import OCRProcessor
 from io import BytesIO
 
