@@ -1,0 +1,8 @@
+Flask
+easyocr
+transformers
+torch
+pandas
+pillow
+matplotlib
+requests
